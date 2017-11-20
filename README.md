@@ -1,4 +1,6 @@
  # head-tracking
+This repo corresponds to the paper from Beihang *A SUBJECTIVE VISUAL QUALITY ASSESSMENT METHOD OF PANORAMIC VIDEOS*, ICME2017.
+
 HTC Vive head tracking data of 40 subjects on 48 panoramic video sequences in 8 classes.
 
 In each file, the latitude data are in the first column and the longitude data are in the second column.
